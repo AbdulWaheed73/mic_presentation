@@ -5,13 +5,10 @@ function App() {
 
   return (
     <>
-      <div>
-        kia haal ha boss
-        humayun bounda
+      <div style={{}}>
+        tension nai leni mic hojaye gi
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      
     </>
   )
 }
