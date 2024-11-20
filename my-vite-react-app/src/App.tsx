@@ -4,7 +4,7 @@ const MICProject = () => {
     <div style={styles.container}>
       {/* Title Section */}
       <section style={styles.section}>
-        <h1 >Improving Anatomical Plausibility in Medical Image Segmentation Using Hybrid Graph Neural Networks</h1>
+        <h1 >sdfsdfs Improving Anatomical Plausibility in Medical Image Segmentation Using Hybrid Graph Neural Networks</h1>
       </section>
 
       {/* Introduction Section */}
